@@ -14,7 +14,6 @@ body {
       border: dashed 1px red;
 }
       p {
-<<<<<<< Updated upstream
          font-family: arial
 }
 body {
@@ -49,9 +48,6 @@ body {
 .logo, .menu {
               border: dashed 1px red;
 }
-.logo {
-       margin-right: 63%;
-}
 .header {
          display: flex;
 }
@@ -69,48 +65,3 @@ body {
 .menu__item:last-child {
                         padding-right: 0;
 }
-=======
-          font-family: arial;
-      }
-      .header {
-               border: dashed 1px red;
-      }
-      .main-section {
-                     margin: auto;
-                     width: 80%;
-                     border: dashed 1px red;
-      }
-      .wrapper {
-                margin: auto;
-                width: 80%;
-                border: dashed 1px red;
-      }
-      .header {
-                border: dashed 1px red;
-      }
-      .logo, .menu {
-                    display: inline-block;
-                    border: dashed 1px red;
-      }
-      .logo {
-             margin-right: 63%;
-      }
-      .header {
-               display: flex;
-               justify-content: space-between;
-      }
-      .logo {
-             padding: 40px 0;
-      }
-      .menu {
-             display: flex;
-             align-items: center;
-      }
-      .menu__item {
-                   padding: 0 13px;
-                   border: dashed 1px red;
-      }
-      menu__item:last-child {
-                             padding-right: 0;
-      }
->>>>>>> Stashed changes
