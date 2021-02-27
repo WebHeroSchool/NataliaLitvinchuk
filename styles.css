@@ -7,19 +7,7 @@ body {
       color: red;
 }
       p {
-         font-family: arial;
-      }
-body {
-      border: dashed 1px red;
-}
-* {
-   border: dashed 1px red;
-}
-.menu__item {
-             border: dashed 1px red;
-}
-.header, .main-section {
-                        border: dashed 1px red;
+         font-family: arial
 }
 body {
       margin: 0;
