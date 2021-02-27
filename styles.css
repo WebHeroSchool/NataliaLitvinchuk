@@ -6,6 +6,62 @@ body {
       font-family: Helvetica;
       color: red;
 }
+body {
+      border: dashed 1px red;
+}
+body {
+      margin: 0;
+      border: dashed 1px red;
+}
       p {
-          font-family: arial;
-      }
+         font-family: arial
+}
+body {
+      margin: 0;
+      border: dashed 1px red;
+}
+.header {
+         border: dashed 1px red;
+}
+body {
+      margin: 0;
+      border: dashed 1px red;
+}
+.header {
+         margin: auto;
+         width: 80%;
+         border: dashed 1px red;
+}
+.main-section {
+               margin: auto;
+               width: 80%;
+               border: dashed 1px red;
+}
+.wrapper {
+          margin: auto;
+          width: 80%;
+          border: dashed 1px red;
+}
+.header {
+         border: dashed 1px red;
+}
+.logo, .menu {
+              border: dashed 1px red;
+}
+.header {
+         display: flex;
+}
+.header {
+         display: flex;
+         justify-content: space-between;
+}
+.logo {
+       padding: 40px 0;
+}
+.menu {
+       display: flex;
+       align-items: center;
+}
+.menu__item:last-child {
+                        padding-right: 0;
+}
